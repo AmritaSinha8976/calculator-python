@@ -1,2 +1,16 @@
-# calculator-python
-A versatile Python calculator offering basic arithmetic operations, exponentiation, square roots, logarithms, and trigonometric functions. Input numerical values and choose from a range of operations. The calculator provides results with precision and supports factorials. An interactive command-line tool for mathematical computations.
+Python Calculator
+Overview
+This Python calculator supports a variety of mathematical operations, from simple addition to advanced trigonometric functions. It's an interactive command-line tool that allows users to input numerical values and perform calculations effortlessly.
+
+Features
+Addition, subtraction, multiplication, division
+Exponentiation and square roots
+Logarithmic functions
+Trigonometric functions (sine, cosine, tangent)
+Exponential and factorial calculations
+How to Use
+Run the script.
+Select the desired operation.
+Follow the prompts to input values.
+Receive accurate and precise results.
+Feel free to explore the diverse capabilities of this calculator for your mathematical needs!
